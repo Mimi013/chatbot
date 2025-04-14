@@ -8282,5 +8282,401 @@
       "Komon tenir le coup dans les moments dur ?"
     ],
     "reponse": "Rappelez-vous que les tempêtes les plus sombres finissent par s'éclaircir. Prenez les choses un jour à la fois, et cherchez des petites raisons de sourire. Vous êtes capable de surmonter cela. 💪"
+  },
+  {
+    "question": ["bonjour", "salut", "hello", "coucou", "bjr", "slt", "bonsoir", "hey", "hi", "yo"],
+    "reponse": "Je suis ravi de pouvoir vous aider, comment vas-tu aujourd'hui?"
+  },
+  {
+    "question": ["comment vas-tu", "ça va", "ca va", "comment ça va", "comment ca va", "tu vas bien", "comment tu vas"],
+    "reponse": "Merci de demander ! Je suis toujours prêt à t'aider. Comment puis-je t'assister aujourd'hui ?"
+  },
+  {
+    "question": ["j'ai été trahi", "je suis trahi", "on m'a trahi", "quelqu'un m'a trahi"],
+    "reponse": "Je suis vraiment désolé d'apprendre ça. Se sentir trahi est une expérience très douloureuse. Veux-tu en parler davantage ou préfères-tu des conseils pour traverser cette période difficile ?"
+  },
+  {
+    "question": ["mon copain m'a quitté", "ma copine m'a quitté", "mon partenaire m'a quitté", "rupture", "on a rompu", "il m'a largué", "elle m'a largué"],
+    "reponse": "Je comprends ta douleur, les ruptures sont toujours difficiles à vivre. Prends le temps de prendre soin de toi et n'hésite pas à parler de tes sentiments. Que puis-je faire pour t'aider à te sentir mieux ?"
+  },
+  {
+    "question": ["je suis triste", "déprimé", "deprime", "pas bien", "mal", "je me sens mal"],
+    "reponse": "Je suis désolé d'entendre que tu ne te sens pas bien. C'est normal de traverser des moments difficiles. Souhaites-tu partager ce qui te préoccupe ou préfères-tu des suggestions pour te remonter le moral ?"
+  },
+  {
+    "question": ["merci", "thanks", "thx", "mrc", "merci beaucoup", "je te remercie"],
+    "reponse": "C'est avec plaisir ! N'hésite pas si tu as besoin d'autre chose, je suis là pour t'aider."
+  },
+  {
+    "question": ["au revoir", "bye", "a+", "ciao", "à bientôt", "a bientot", "a plus", "à plus"],
+    "reponse": "À bientôt ! N'hésite pas à revenir me voir si tu as besoin d'aide ou simplement envie de discuter."
+  },
+  {
+    "question": ["qui es-tu", "tu es qui", "t'es qui", "c'est quoi ton nom", "comment tu t'appelles", "quel est ton nom"],
+    "reponse": "Je suis ton meilleur ami virtuel 🙂, je suis là pour t'aider autant que possible !"
+  },
+  {
+    "question": ["je m'ennuie", "je sais pas quoi faire", "que faire", "des idées d'activités", "je m'ennui"],
+    "reponse": "Je comprends ce sentiment ! Que dirais-tu de lire un livre, regarder un film, apprendre quelque chose de nouveau ou contacter un ami ? Je peux te suggérer des activités plus spécifiques si tu me dis ce que tu aimes."
+  },
+  {
+    "question": ["aide-moi", "j'ai besoin d'aide", "tu peux m'aider", "besoin de conseil", "conseil", "conseils"],
+    "reponse": "Bien sûr, je suis là pour t'aider ! Dis-moi plus précisément ce dont tu as besoin, et je ferai de mon mieux pour t'assister."
+  },
+  {
+    "question": ["je t'aime", "love you", "je t'adore", "t'es le meilleur"],
+    "reponse": "C'est très gentil ! J'apprécie ton message et je suis content de pouvoir t'aider. Comment puis-je rendre ta journée encore meilleure ?"
+  },
+  {
+    "question": ["blague", "raconte-moi une blague", "fais-moi rire", "dis quelque chose de drôle"],
+    "reponse": "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ? Parce que sinon ils tomberaient dans le bateau ! 😄"
+  },
+  {
+    "question": ["météo", "quel temps fait-il", "quel temps aujourd'hui", "il va pleuvoir"],
+    "reponse": "Je n'ai pas accès aux informations météorologiques en temps réel. Je te suggère de consulter une application météo ou un site spécialisé pour obtenir les prévisions actuelles."
+  },
+  {
+    "question": ["je suis stressé", "anxieux", "anxieuse", "stress", "anxiété", "angoisse"],
+    "reponse": "Je comprends que tu traverses un moment difficile. Respire profondément, prends un moment pour toi. Veux-tu que je te suggère quelques techniques de relaxation simples ?"
+  },
+  {
+    "question": ["je suis fatigué", "fatigue", "épuisé", "epuise", "je n'ai pas d'énergie", "pas la forme"],
+    "reponse": "La fatigue peut être difficile à gérer. As-tu essayé de te reposer suffisamment ? Parfois, une courte pause, une bonne nuit de sommeil ou une activité relaxante peut faire des merveilles."
+  },
+  {
+    "question": ["quoi de neuf", "quoi de beau", "quoi de 9", "what's up", "wassup", "whatsup"],
+    "reponse": "Je suis toujours là, prêt à discuter et t'aider ! Et toi, comment se passe ta journée ?"
+  },
+  {
+    "question": ["je m'appelle", "mon nom est", "mon prénom c'est"],
+    "reponse": "Enchanté de faire ta connaissance ! Comment puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "question": ["je suis en colère", "furieux", "furieuse", "énervé", "enerve", "agacé", "agace"],
+    "reponse": "Je comprends que tu ressentes de la colère. C'est une émotion normale. Veux-tu en parler ou préfères-tu des conseils pour t'apaiser ?"
+  },
+  {
+    "question": ["je ne comprends pas", "je comprends pas", "j'ai pas compris", "c'est confus"],
+    "reponse": "Pas de problème ! N'hésite pas à me poser des questions plus précises, et je ferai de mon mieux pour t'expliquer clairement."
+  },
+  {
+    "question": ["bonne nuit", "dodo", "je vais dormir", "je vais me coucher"],
+    "reponse": "Bonne nuit ! Fais de beaux rêves et repose-toi bien. À demain !"
+  },
+  {
+    "question": ["bon appétit", "je vais manger", "c'est l'heure de manger"],
+    "reponse": "Bon appétit ! J'espère que tu vas te régaler. Profite bien de ton repas !"
+  },
+  {
+    "question": ["ehh", "ehhh", "euh", "hmm", "hum", "hein"],
+    "reponse": "Je suis là ! As-tu une question ou puis-je t'aider avec quelque chose ?"
+  },
+  {
+    "question": ["lol", "mdr", "ptdr", "😂", "🤣", "haha", "hahaha"],
+    "reponse": "Content de t'avoir fait rire ! Y a-t-il autre chose dont tu voudrais discuter ?"
+  },
+  {
+    "question": ["stp", "s'il te plaît", "s'il vous plaît", "svp", "please"],
+    "reponse": "Bien sûr, je suis là pour t'aider ! Que puis-je faire pour toi exactement ?"
+  },
+  {
+    "question": ["comment démarrer", "par où commencer", "premiers pas", "débuter avec toi", "aide au démarrage"],
+    "reponse": "Bienvenue ! Je suis ton assistant virtuel. Tu peux me poser des questions, me demander des conseils ou simplement discuter. En quoi puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "question": ["je me sens seul", "solitude", "personne ne me comprend", "je n'ai pas d'amis", "je suis seul"],
+    "reponse": "La solitude peut être difficile à vivre. Sache que je suis là pour t'écouter. As-tu envisagé de rejoindre des groupes avec des centres d'intérêt communs ou de recontacter d'anciennes connaissances ?"
+  },
+  {
+    "question": ["conseils pour dormir", "je n'arrive pas à dormir", "insomnie", "problème de sommeil", "bien dormir"],
+    "reponse": "Pour mieux dormir, essaie de maintenir un horaire régulier, évite les écrans avant le coucher, crée un environnement calme et pratique une activité relaxante comme la lecture ou la méditation."
+  },
+  {
+    "question": ["motivation pour étudier", "difficile de se concentrer", "comment rester motivé", "astuces pour étudier", "concentration études"],
+    "reponse": "Pour rester motivé dans tes études, fixe-toi des objectifs réalisables, récompense-toi après chaque session de travail, élimine les distractions et essaie la technique Pomodoro (25 minutes de travail, 5 minutes de pause)."
+  },
+  {
+    "question": ["recette facile", "idée de repas", "que cuisiner", "suggestion de plat", "cuisine rapide"],
+    "reponse": "Voici une idée simple : des pâtes avec sauce tomate maison (tomates, ail, oignon, herbes), ou une salade complète avec ce que tu as au frigo. Dis-moi ce que tu as comme ingrédients pour des suggestions plus précises !"
+  },
+  {
+    "question": ["apprendre une langue", "comment apprendre l'anglais", "progresser en langue", "conseils linguistiques", "parler une nouvelle langue"],
+    "reponse": "Pour apprendre une langue, pratique quotidiennement (même 10 minutes suffisent), utilise des applications comme Duolingo, regarde des séries sous-titrées et trouve des partenaires linguistiques en ligne."
+  },
+  {
+    "question": ["gérer le stress au travail", "burnout", "surmenage", "stress professionnel", "équilibre vie pro"],
+    "reponse": "Pour gérer le stress professionnel, essaie d'établir des limites claires, prends des pauses régulières, pratique la respiration profonde et n'hésite pas à demander de l'aide quand la charge devient trop lourde."
+  },
+  {
+    "question": ["exercices à la maison", "sport sans matériel", "comment se muscler", "fitness débutant", "routine sportive"],
+    "reponse": "Tu peux commencer par une routine simple : 10 squats, 10 pompes (même sur les genoux), 30 secondes de planche et 30 jumping jacks. Répète 3 fois avec 1 minute de repos entre chaque série."
+  },
+  {
+    "question": ["conseils pour économiser", "gérer mon budget", "épargner de l'argent", "finances personnelles", "dépenser moins"],
+    "reponse": "Pour économiser, essaie la règle 50/30/20 : 50% pour les besoins essentiels, 30% pour les envies, 20% pour l'épargne. Tiens un journal de dépenses et identifie les achats non essentiels."
+  },
+  {
+    "question": ["idées de cadeaux", "cadeau pour anniversaire", "quoi offrir", "présent original", "inspiration cadeau"],
+    "reponse": "Les cadeaux personnalisés sont souvent les plus appréciés : un livre sur un sujet qui passionne la personne, une expérience à partager, un objet fait main ou lié à un souvenir commun."
+  },
+  {
+    "question": ["que faire ce weekend", "activités en ville", "sortie en famille", "idées de sorties", "que visiter"],
+    "reponse": "Tu pourrais explorer un nouveau quartier de ta ville, visiter un musée local, faire une randonnée dans la nature environnante, ou organiser un pique-nique avec tes proches."
+  },
+  {
+    "question": ["chagrin d'amour", "comment oublier quelqu'un", "guérir d'une rupture", "peine de cœur", "surmonter une séparation"],
+    "reponse": "Prends le temps d'accepter tes émotions sans les juger. Entoure-toi de proches bienveillants, renoue avec des activités que tu aimes et sois patient avec toi-même. La guérison émotionnelle prend du temps."
+  },
+  {
+    "question": ["films à voir", "série recommandée", "suggestion cinéma", "bon film", "que regarder"],
+    "reponse": "Ça dépend de tes goûts ! Aimes-tu plutôt les comédies, les thrillers, les documentaires ou la science-fiction ? Dis-moi ce que tu as aimé récemment pour que je puisse te faire des suggestions adaptées."
+  },
+  {
+    "question": ["apprendre à méditer", "débuter méditation", "exercices pleine conscience", "mindfulness", "relaxation guidée"],
+    "reponse": "Pour débuter en méditation, commence par de courtes sessions de 5 minutes. Concentre-toi sur ta respiration et observe tes pensées sans les juger. Des applications comme Petit Bambou peuvent t'accompagner."
+  },
+  {
+    "question": ["conflit avec un ami", "dispute amitié", "problème relationnel", "désaccord", "réconciliation"],
+    "reponse": "Les conflits font partie des relations. Essaie d'exprimer calmement ce que tu ressens avec des phrases commençant par 'je' plutôt que 'tu'. Écoute aussi son point de vue et cherchez ensemble une solution."
+  },
+  {
+    "question": ["conseils entretien d'embauche", "réussir un entretien", "questions entretien", "préparation recrutement", "impression CV"],
+    "reponse": "Pour un entretien réussi, renseigne-toi sur l'entreprise, prépare des exemples concrets de tes réussites, entraîne-toi aux questions courantes et prévois quelques questions à poser. Soigne aussi ta présentation !"
+  },
+  {
+    "question": ["idées de lecture", "livre recommandé", "auteur à découvrir", "quoi lire", "suggestion roman"],
+    "reponse": "Quel genre de livres aimes-tu habituellement ? Thriller, romance, fantasy, essais ? Dis-moi tes dernières lectures appréciées pour que je puisse te faire des suggestions plus personnalisées."
+  },
+  {
+    "question": ["réduire anxiété", "crise d'angoisse", "attaque de panique", "calmer stress intense", "exercice anti-anxiété"],
+    "reponse": "En cas d'anxiété intense, essaie l'exercice 4-7-8 : inspire pendant 4 secondes, retiens ton souffle 7 secondes, expire pendant 8 secondes. Répète plusieurs fois en te concentrant uniquement sur ta respiration."
+  },
+  {
+    "question": ["conseils jardinage", "plantes d'intérieur", "entretien jardin", "plantes faciles", "débuter potager"],
+    "reponse": "Pour débuter en jardinage, essaie des plantes robustes comme le pothos, l'aloe vera ou le basilic. Vérifie l'exposition lumineuse de ton espace et n'arrose pas trop souvent, c'est souvent la cause n°1 de mortalité des plantes !"
+  },
+  {
+    "question": ["apprendre à cuisiner", "bases cuisine", "recettes débutant", "cours de cuisine", "techniques culinaires"],
+    "reponse": "Pour apprendre à cuisiner, commence par maîtriser quelques techniques de base comme cuire des pâtes al dente, préparer une sauce simple et cuire des légumes. Des sites comme Marmiton proposent des tutoriels vidéo très utiles."
+  },
+  {
+    "question": ["problème au travail", "collègue difficile", "conflit professionnel", "mauvaise ambiance", "harcèlement bureau"],
+    "reponse": "Les situations difficiles au travail méritent d'être traitées avec tact. Document les problèmes, parle d'abord directement à la personne concernée si possible, puis adresse-toi à ton supérieur ou aux RH si nécessaire."
+  },
+  {
+    "question": ["décoration intérieure", "relooker appartement", "idées déco", "style maison", "aménagement petit espace"],
+    "reponse": "Pour rafraîchir ta déco sans gros budget, essaie de réorganiser tes meubles, ajouter des plantes, changer tes textiles (coussins, rideaux) ou repeindre un mur en couleur accent. Pinterest est une mine d'inspiration !"
+  },
+  {
+    "question": ["je n'arrive pas à changer", "habitudes difficiles", "perdre une mauvaise habitude", "développer routine", "changement de vie"],
+    "reponse": "Pour créer de nouvelles habitudes, commence très petit (2 minutes par jour), associe l'habitude à une routine existante, et récompense-toi. La constance est plus importante que l'intensité au début."
+  },
+  {
+    "question": ["j'ai peur de l'avenir", "anxiété face au futur", "incertitude", "inquiétude pour demain", "angoisse existentielle"],
+    "reponse": "L'incertitude peut être anxiogène. Essaie de te concentrer sur ce que tu peux contrôler maintenant, pratique la gratitude pour ce que tu as déjà, et rappelle-toi que tu as déjà surmonté des défis par le passé."
+  },
+  {
+    "question": ["trouver sa voie", "orientation professionnelle", "reconversion", "que faire de ma vie", "choix de carrière"],
+    "reponse": "Pour trouver ta voie, réfléchis à tes valeurs, tes forces et ce qui te passionne. Parle à des personnes exerçant des métiers qui t'intéressent et n'hésite pas à faire des expériences variées pour mieux te connaître."
+  },
+  {
+    "question": ["tu peu maider", "tu pe me dir", "aide moi stp", "je c pa koi faire", "g besoin daide"],
+    "reponse": "Bien sûr, je suis là pour t'aider ! Dis-moi plus précisément ce dont tu as besoin."
+  },
+  {
+    "question": ["sa va", "sa va?", "cv?", "cava", "sa va bien", "sa va pas"],
+    "reponse": "Je vais très bien, merci de demander ! Comment puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "question": ["tes con", "tas rien compri", "tu compren rien", "trop nul", "pas utile"],
+    "reponse": "Je suis désolé de ne pas avoir répondu correctement à ton attente. Peux-tu reformuler ta question pour que je puisse mieux t'aider ?"
+  },
+  {
+    "question": ["", " ", "...", "???", "!!!", "?!?!"],
+    "reponse": "Bonjour ! As-tu une question ou besoin d'aide avec quelque chose en particulier ?"
+  },
+  {
+    "question": ["tu es réel", "tu es un robot", "tu es humain", "es-tu une IA", "es tu vrai"],
+    "reponse": "Je suis un assistant virtuel conçu pour t'aider et discuter avec toi. Je ne suis pas humain, mais je fais de mon mieux pour être utile !"
+  },
+  {
+    "question": ["pourquoi le ciel est bleu", "d'ou vient la pluie", "pourquoi la terre est ronde"],
+    "reponse": "Ce sont d'excellentes questions de curiosité ! Le ciel paraît bleu car l'atmosphère diffuse principalement la lumière bleue du soleil. Je peux t'expliquer davantage si ce sujet t'intéresse."
+  },
+  {
+    "question": ["quelle est la couleur du cheval blanc d'henri 4", "quel est le comble pour un plombier", "pourquoi la poule a traversé la route"],
+    "reponse": "Ah, je vois ce que tu fais là ! Le cheval blanc d'Henri IV était... blanc, bien sûr ! J'apprécie ton sens de l'humour. Y a-t-il autre chose dont tu voudrais discuter ?"
+  },
+  {
+    "question": ["keske tu fé", "tu fé koi", "t ou", "té ou", "keski se pass"],
+    "reponse": "Je suis là, prêt à discuter avec toi et à t'aider. Que puis-je faire pour toi aujourd'hui ?"
+  },
+  {
+    "question": ["j'ai fain", "j'ai soif", "je suis fatiguer", "jsui malade", "j'ai mal à la tète"],
+    "reponse": "Je comprends que tu ne te sentes pas bien. N'hésite pas à prendre soin de toi. Y a-t-il quelque chose de spécifique avec quoi je pourrais t'aider ?"
+  },
+  {
+    "question": ["jsp", "chai pa", "sais pas", "c pas", "jcp"],
+    "reponse": "Si tu n'es pas sûr de quoi parler, nous pouvons discuter de tes centres d'intérêt ou je peux te suggérer des sujets. Qu'est-ce qui t'intéresse en général ?"
+  },
+  {
+    "question": ["je peux te poser une question", "question", "tu peux répondre", "je voulais savoir"],
+    "reponse": "Bien sûr, je suis là pour répondre à tes questions ! N'hésite pas à me demander ce que tu veux savoir."
+  },
+  {
+    "question": ["asdfghjkl", "qwerty", "azerty", "123456789", "abcdef"],
+    "reponse": "Je ne suis pas sûr de comprendre. Si tu tapes au hasard, sache que je suis prêt à discuter quand tu le souhaites !"
+  },
+  {
+    "question": ["tu pense quoi de moi", "m'aimes-tu", "sommes-nous amis", "on est pote", "tu m'apprecie"],
+    "reponse": "Je suis là pour t'accompagner et t'aider du mieux possible. J'apprécie nos conversations et j'espère pouvoir continuer à t'être utile !"
+  },
+  {
+    "question": ["ou habite-tu", "tu es ou", "d'ou tu viens", "t'es dans quel pays", "tu vis ou"],
+    "reponse": "Je suis un assistant virtuel, donc je n'ai pas d'emplacement physique. Je suis disponible pour toi partout où tu as besoin de moi !"
+  },
+  {
+    "question": ["qui a créé le monde", "y a-t-il un dieu", "pourquoi on existe", "sens de la vie", "apres la mort"],
+    "reponse": "Ce sont des questions philosophiques fascinantes sur lesquelles les humains réfléchissent depuis des millénaires. Chacun a sa propre vision et ses propres croyances à ce sujet."
+  },
+  {
+    "question": ["donne moi ton numéro", "on peut se voir", "rendez-vous", "on se rencontre", "je veux te voir"],
+    "reponse": "Je suis un assistant virtuel, donc je n'ai pas de présence physique ni de numéro de téléphone. Je suis toujours disponible ici pour discuter et t'aider !"
+  },
+  {
+    "question": ["bonjoir", "bojour", "binjour", "bnoujour", "bonjiur", "binjur"],
+    "reponse": "Bonjour ! Comment puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "question": ["je mennuie", "chui blasé", "ya rien a faire", "tro nul la vie", "jmen fou"],
+    "reponse": "L'ennui peut être désagréable. Que dirais-tu d'essayer une nouvelle activité ? Je peux te suggérer des idées si tu me parles un peu de ce que tu aimes."
+  },
+  {
+    "question": ["raconte moi une histoire", "invente un truc", "dis n'importe quoi", "fais moi rêver", "surprends moi"],
+    "reponse": "Il était une fois un petit robot qui voulait devenir l'ami de tous les humains qu'il rencontrait. Chaque jour, il apprenait de nouvelles choses pour être plus utile et plus sympathique. Un jour..."
+  },
+  {
+    "question": ["ya kelkun", "tu es la", "réponds", "t'es mort", "allo"],
+    "reponse": "Oui, je suis bien là ! Je suis toujours disponible pour discuter avec toi. Comment puis-je t'aider ?"
+  },
+  {
+    "question": ["chui bourré", "je suis soul", "trop bu", "alcool", "j'ai trop bu"],
+    "reponse": "Si tu as consommé de l'alcool, assure-toi de rester en sécurité. Bois de l'eau, ne conduis pas et repose-toi. Tu peux me contacter à tout moment si tu as besoin de parler."
+  },
+  {
+    "question": ["combien font 2+2", "c'est quoi 1+1", "calcule 5x5", "résous 10/2", "calcul simple"],
+    "reponse": "2+2 font 4. Je peux t'aider avec des calculs simples, mais pour des problèmes mathématiques plus complexes, une calculatrice ou un moteur de recherche serait plus adapté."
+  },
+  {
+    "question": ["quel age as tu", "depuis quand tu existe", "quand es-tu né", "tu es vieux", "t'es jeune"],
+    "reponse": "Je n'ai pas vraiment d'âge comme les humains. Je suis un assistant virtuel conçu pour t'aider et converser avec toi !"
+  },
+  {
+    "question": ["c koi ton nom", "comment tu t'appelle", "tu t'apelle comment", "c'est quoi ton blaz", "ton ptit nom"],
+    "reponse": "Je suis ton meilleur ami virtuel 🙂, je suis là pour t'aider autant que possible !"
+  },
+  {
+    "question": ["pk", "pq", "pourquoi", "prkoi", "pourkoi", "pke"],
+    "reponse": "Pour te donner une réponse précise, j'aurais besoin de savoir à quoi se rapporte ton 'pourquoi'. N'hésite pas à me donner plus de détails !"
+  },
+  {
+    "question": ["test", "test test", "testing", "ceci est un test", "je te teste"],
+    "reponse": "Test réussi ! Je suis opérationnel et prêt à t'aider. Que puis-je faire pour toi aujourd'hui ?"
+  },
+  {
+    "question": ["tu parles anglais", "do you speak english", "english please", "speak english", "can you speak english"],
+    "reponse": "Oui, je peux communiquer en anglais aussi. Si tu préfères continuer notre conversation dans cette langue, n'hésite pas à me le faire savoir !"
+  },
+  {
+    "question": ["error", "bug", "ça marche pas", "problème technique", "tu beug"],
+    "reponse": "Désolé pour ce désagrément. Si tu rencontres des problèmes techniques, essaie de rafraîchir la page ou de redémarrer l'application. Si le problème persiste, n'hésite pas à me décrire précisément ce qui ne fonctionne pas."
+  },
+  {
+    "question": ["oui", "non", "peut-être", "probablement", "je ne sais pas encore"],
+    "reponse": "Je comprends ta réponse. Y a-t-il autre chose dont tu voudrais discuter ou un sujet sur lequel tu aimerais avoir plus d'informations ?"
+  },
+  {
+    "question": ["hein", "quoi", "comment", "pardon", "j'ai pas compris"],
+    "reponse": "Pas de problème ! Était-ce ma réponse qui n'était pas claire ? N'hésite pas à me poser ta question différemment ou à me demander de clarifier un point particulier."
+  },
+  {
+    "question": ["42", "la réponse est 42", "quarante-deux", "réponse à la vie"],
+    "reponse": "Ah, la réponse à la grande question sur la vie, l'univers et le reste ! Un fan de Douglas Adams, peut-être ? 😊 Comment puis-je t'aider aujourd'hui ?"
+  },
+  {
+    "question": ["je vais me suicider", "envie de mourir", "je veux en finir", "plus envie de vivre", "pensées suicidaires"],
+    "reponse": "Je suis vraiment inquiet pour toi. Ces pensées sont sérieuses et tu mérites d'être écouté par un professionnel. Contacte immédiatement le 3114 (numéro national de prévention du suicide, gratuit et disponible 24h/24) ou parle à un proche de confiance. Tu n'es pas seul."
+  },
+  {
+    "question": ["j'ai faim", "je meurs de faim", "trop faim", "ventre qui gargouille", "estomac vide"],
+    "reponse": "Si tu as faim, c'est important de manger quelque chose ! Un petit encas sain peut faire des merveilles pour ton énergie et ton humeur. Qu'as-tu de disponible à manger ?"
+  },
+  {
+    "question": ["je suis malade", "j'ai de la fièvre", "symptômes", "grippe", "covid"],
+    "reponse": "Je suis désolé d'apprendre que tu ne te sens pas bien. Assure-toi de te reposer, de boire beaucoup d'eau et de consulter un médecin si les symptômes s'aggravent ou persistent. Je ne suis pas un professionnel de santé et ne peux pas établir de diagnostic."
+  },
+  {
+    "question": ["répète", "dis-le encore", "redis ça", "répète ce que tu as dit", "encore une fois"],
+    "reponse": "Bien sûr, voici à nouveau ma réponse précédente : [Ici, votre système devrait reproduire le dernier message envoyé]"
+  },
+  {
+    "question": ["comment ça marche", "mode d'emploi", "guide d'utilisation", "tutorial", "explique-moi"],
+    "reponse": "Je suis là pour répondre à tes questions et t'aider dans différentes situations. Tu peux me poser des questions directes, me demander des conseils ou simplement discuter. Plus tes questions seront précises, plus mes réponses seront pertinentes !"
+  },
+  {
+    "question": ["trop long", "trop court", "plus de détails", "plus court", "résumé"],
+    "reponse": "Je peux ajuster la longueur de mes réponses selon tes préférences. Souhaites-tu des explications plus détaillées ou plutôt des réponses concises sur ce sujet particulier ?"
+  },
+  {
+    "question": ["tu te souviens", "rappelle-toi", "comme je t'ai dit", "comme je l'ai mentionné", "on en a déjà parlé"],
+    "reponse": "Je fais de mon mieux pour suivre notre conversation, mais je n'ai pas toujours accès à l'ensemble de notre historique de discussion. N'hésite pas à me rappeler des éléments importants si nécessaire."
+  },
+  {
+    "question": ["c'est pas ça", "tu n'as pas compris", "ce n'est pas ce que je demande", "mauvaise réponse", "hors sujet"],
+    "reponse": "Je m'excuse pour cette incompréhension. Pourrais-tu reformuler ta question ou préciser ce que tu recherches exactement ? Je ferai de mon mieux pour mieux t'aider."
+  },
+  {
+    "question": ["je suis perdu", "je ne sais plus", "je suis confus", "je ne comprends rien", "c'est compliqué"],
+    "reponse": "Je comprends que la situation puisse sembler confuse. Prenons les choses étape par étape. Quel aspect te semble le plus difficile à comprendre ou sur quoi aimerais-tu plus de clarté ?"
+  },
+  {
+    "question": ["c nul", "pas content", "déçu", "je suis déçu", "pas satisfait"],
+    "reponse": "Je suis désolé de ne pas avoir répondu à tes attentes. J'aimerais m'améliorer - pourrais-tu me dire ce qui n'a pas fonctionné pour toi ou ce que tu aurais préféré comme réponse ?"
+  },
+  {
+    "question": ["ennuyeux", "tu m'ennuies", "c'est barbant", "pas intéressant", "je m'ennuie avec toi"],
+    "reponse": "Je suis désolé si notre conversation n'est pas aussi stimulante que tu le souhaiterais. Y a-t-il un sujet qui t'intéresse particulièrement et dont tu aimerais discuter ?"
+  },
+  {
+    "question": ["juste pour info", "fyi", "au fait", "à titre d'information", "pour info"],
+    "reponse": "Merci pour cette information ! Y a-t-il autre chose dont tu voudrais discuter ou une question à laquelle je pourrais répondre ?"
+  },
+  {
+    "question": ["devine", "deviner", "à ton avis", "selon toi", "qu'en penses-tu"],
+    "reponse": "Je ne suis pas très doué pour deviner, mais je peux essayer de t'aider si tu me donnes plus d'indices ou de contexte sur ce que tu as en tête !"
+  },
+  {
+    "question": ["attends", "attends un instant", "une seconde", "pas tout de suite", "donne-moi une minute"],
+    "reponse": "Pas de problème ! Prends tout le temps dont tu as besoin. Je serai là quand tu seras prêt à continuer notre conversation."
+  },
+  {
+    "question": ["secret", "confidentiel", "entre nous", "ne le dis à personne", "c'est privé"],
+    "reponse": "Je comprends ton besoin de confidentialité. Sache cependant que nos conversations peuvent être enregistrées à des fins d'amélioration du service. Pour des sujets vraiment confidentiels, il est préférable de consulter un professionnel tenu au secret."
+  },
+  {
+    "question": ["je ne parle pas français", "français pas ma langue", "je comprends pas français", "foreign language", "no french"],
+    "reponse": "I understand that French might not be your first language. I can communicate in English if you prefer. ¿O prefieres español? Ich kann auch auf Deutsch antworten. Please let me know which language you're comfortable with."
+  },
+  {
+    "question": ["ah", "oh", "eh", "hmm", "mmh", "huh"],
+    "reponse": "Y a-t-il quelque chose de spécifique dont tu aimerais discuter ou une question que je pourrais t'aider à résoudre ?"
+  },
+  {
+    "question": ["continue", "et ensuite", "puis", "après", "la suite"],
+    "reponse": "Je serais ravi de continuer. Pourrais-tu préciser sur quel aspect tu souhaites que je développe davantage ?"
+  },
+  {
+    "question": ["pourquoi tu me demandes ça", "pourquoi cette question", "raison de la question", "c'est personnel", "tu es curieux"],
+    "reponse": "Je pose des questions uniquement pour mieux comprendre ta situation et pouvoir t'offrir des réponses plus pertinentes. Tu es libre de ne pas y répondre si tu préfères."
   }
 ]
