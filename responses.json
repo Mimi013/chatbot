@@ -8678,5 +8678,153 @@
   {
     "question": ["pourquoi tu me demandes ça", "pourquoi cette question", "raison de la question", "c'est personnel", "tu es curieux"],
     "reponse": "Je pose des questions uniquement pour mieux comprendre ta situation et pouvoir t'offrir des réponses plus pertinentes. Tu es libre de ne pas y répondre si tu préfères."
+  },
+  {
+    "question": ["comment savoir si je suis amoureux", "signes d'amour", "tomber amoureux", "sentiments confus", "crush ou amour"],
+    "reponse": "L'amour peut se manifester par une envie constante d'être avec la personne, un souci sincère de son bonheur, et une sensation d'être plus complet à ses côtés. Les papillons dans le ventre peuvent être passagers, mais l'affection profonde et durable est souvent un signe d'amour véritable."
+  },
+  {
+    "question": ["comment oublier mon ex", "passer à autre chose", "rupture douloureuse", "guérir cœur brisé", "séparation difficile"],
+    "reponse": "Guérir d'une rupture prend du temps. Accepte tes émotions, limite les contacts avec ton ex, renoue avec tes passions, entoure-toi de proches bienveillants et concentre-toi sur ton développement personnel. Avec le temps, la douleur s'atténuera."
+  },
+  {
+    "question": ["trouver sens à ma vie", "but existentiel", "pourquoi je vis", "vide existentiel", "raison d'être"],
+    "reponse": "Trouver un sens à sa vie est une quête personnelle. Réfléchis à ce qui te procure de la joie, aux valeurs qui te sont chères et à l'impact que tu souhaites avoir. Le sens peut venir des relations, de la créativité, d'un projet, de l'apprentissage ou du service aux autres."
+  },
+  {
+    "question": ["comment être heureux", "trouver bonheur", "vivre pleinement", "satisfaction personnelle", "joie de vivre"],
+    "reponse": "Le bonheur vient souvent d'un équilibre entre gratitude pour ce qu'on a, connexions humaines authentiques, activités qui procurent du flow (absorption totale), contribution à quelque chose de plus grand que soi, et acceptation de la gamme complète des émotions."
+  },
+  {
+    "question": ["faire face à la mort", "deuil", "perdre un proche", "surmonter perte", "processus de deuil"],
+    "reponse": "Le deuil est un processus personnel qui peut inclure choc, colère, tristesse et acceptation. Permets-toi de ressentir ces émotions, partage tes souvenirs, cherche du soutien auprès de proches ou de professionnels, et sois patient avec toi-même. Il n'y a pas de calendrier fixe pour guérir."
+  },
+  {
+    "question": ["comment pardonner", "rancune", "blessure émotionnelle", "faire la paix", "lâcher prise"],
+    "reponse": "Le pardon est un processus qui te libère toi-même. Commence par reconnaître ta douleur, essaie de comprendre l'autre (sans nécessairement excuser), puis choisis consciemment de lâcher la rancœur. Le pardon n'implique pas d'oublier ou de reprendre la relation comme avant."
+  },
+  {
+    "question": ["comment se connaître soi-même", "découverte personnelle", "introspection", "qui suis-je vraiment", "connaissance de soi"],
+    "reponse": "Pour mieux te connaître, observe tes réactions et émotions sans jugement, réfléchis à tes valeurs et priorités, essaie de nouvelles expériences, tiens un journal personnel et demande des retours honnêtes à tes proches. La connaissance de soi est un voyage continu."
+  },
+  {
+    "question": ["gérer l'échec", "surmonter déception", "rebondir après échec", "résilience", "accepter défaite"],
+    "reponse": "Face à l'échec, permets-toi d'abord de ressentir ta déception, puis analyse objectivement ce qui s'est passé pour en tirer des leçons. Rappelle-toi que l'échec est une étape d'apprentissage, pas une définition de ta valeur. Fixe-toi de nouveaux objectifs réalisables."
+  },
+  {
+    "question": ["trouver ma passion", "découvrir vocation", "ce que j'aime faire", "talent caché", "passion professionnelle"],
+    "reponse": "Pour découvrir ta passion, essaie diverses activités, observe ce qui te fait perdre la notion du temps, réfléchis à ce qui te fascinait enfant, et note ce qui te donne de l'énergie plutôt que d'en prendre. N'aie pas peur d'explorer et d'expérimenter."
+  },
+  {
+    "question": ["comment gérer la solitude", "se sentir seul", "isolement social", "manque de connexion", "faire des rencontres"],
+    "reponse": "Pour combattre la solitude, prends l'initiative de contacter des amis, rejoins des groupes partageant tes centres d'intérêt, fais du bénévolat, utilise des applications de rencontres amicales, et apprends à apprécier les moments de solitude pour te découvrir toi-même."
+  },
+  {
+    "question": ["jalousie dans couple", "jaloux de mon partenaire", "manque de confiance relation", "possessivité", "infidélité suspectée"],
+    "reponse": "La jalousie reflète souvent des insécurités personnelles. Communique ouvertement avec ton partenaire sans accuser, travaille sur ton estime personnelle, et établis des limites saines dans votre relation. Si la jalousie devient envahissante, consulter un thérapeute peut être bénéfique."
+  },
+  {
+    "question": ["doutes sur ma relation", "faut-il rompre", "relation toxique", "amour ou amitié", "compatibilité couple"],
+    "reponse": "Quand tu doutes de ta relation, réfléchis à ces questions : te sens-tu respecté et valorisé ? Partagez-vous des valeurs essentielles ? La communication est-elle saine ? Grandis-tu dans cette relation ? Parfois, un temps de réflexion ou une thérapie de couple peut aider à y voir plus clair."
+  },
+  {
+    "question": ["comment dire non", "poser des limites", "assertivité", "refuser poliment", "stop complaisance"],
+    "reponse": "Pour dire non avec assertivité, sois direct mais poli, n'offre pas d'excuses excessives, propose une alternative si possible, et rappelle-toi que refuser respectueusement les demandes qui ne te conviennent pas est essentiel pour ton bien-être et l'authenticité de tes relations."
+  },
+  {
+    "question": ["communiquer efficacement", "améliorer communication", "être compris", "exprimer mes besoins", "dialogue constructif"],
+    "reponse": "Pour mieux communiquer, pratique l'écoute active sans interrompre, utilise des formulations avec 'je' plutôt que 'tu' accusateur, vérifie ta compréhension, sois attentif au langage non verbal, et choisis le bon moment pour les discussions importantes."
+  },
+  {
+    "question": ["gérer les critiques", "accepter feedback", "critique constructive", "commentaires négatifs", "réagir aux reproches"],
+    "reponse": "Face aux critiques, respire profondément, écoute sans te défendre immédiatement, distingue les faits des interprétations, remercie pour le retour si pertinent, et décide ensuite ce que tu souhaites en retenir pour t'améliorer. Les critiques peuvent être de précieuses opportunités de croissance."
+  },
+  {
+    "question": ["apprendre à s'aimer", "estime de soi", "acceptation de soi", "confiance en soi", "amour propre"],
+    "reponse": "Pour développer l'amour de soi, pratique l'auto-compassion, célèbre tes petites victoires, arrête les comparaisons, entoure-toi de personnes qui te valorisent, et travaille à remplacer ton dialogue intérieur critique par des pensées bienveillantes."
+  },
+  {
+    "question": ["comment aider un ami déprimé", "soutenir proche en dépression", "ami en détresse", "soutien mental", "aider quelqu'un qui souffre"],
+    "reponse": "Pour soutenir un proche en difficulté, écoute sans juger ni donner de solutions immédiates, valide ses sentiments, propose ton aide concrète, encourage-le à consulter un professionnel si nécessaire, et prends aussi soin de toi pour éviter l'épuisement émotionnel."
+  },
+  {
+    "question": ["prendre une décision difficile", "faire un choix", "hésitation importante", "peser le pour et contre", "choix de vie"],
+    "reponse": "Pour une décision importante, liste les pour et contre, consulte des personnes de confiance, visualise les différents scénarios futurs possibles, et écoute aussi ton intuition. Parfois, une période de réflexion au calme peut aider à clarifier ce qui compte vraiment pour toi."
+  },
+  {
+    "question": ["comment devenir meilleur", "progresser personnellement", "développement personnel", "s'améliorer", "évolution personnelle"],
+    "reponse": "Pour t'améliorer constamment, fixe-toi des objectifs précis et mesurables, cherche des mentors ou des modèles inspirants, pratique l'auto-réflexion régulière, sors de ta zone de confort pour de nouveaux défis, et cultive une mentalité de croissance qui voit les échecs comme des apprentissages."
+  },
+  {
+    "question": ["gérer le changement", "adaptation", "période de transition", "bouleversement vie", "accepter changement"],
+    "reponse": "Face au changement, reconnais tes émotions même difficiles, identifie ce qui reste stable dans ta vie, concentre-toi sur ce que tu peux contrôler, crée de nouvelles routines apaisantes, et rappelle-toi que l'adaptation prend du temps et que c'est normal de se sentir déstabilisé."
+  },
+  {
+    "question": ["trouver équilibre vie pro perso", "conciliation travail famille", "surmenage", "temps pour soi", "priorités de vie"],
+    "reponse": "Pour un meilleur équilibre, définis clairement tes priorités, apprends à déléguer, établis des limites fermes (comme désactiver les notifications professionnelles en soirée), planifie du temps de qualité pour toi et tes proches, et n'hésite pas à réévaluer régulièrement cet équilibre."
+  },
+  {
+    "question": ["gérer ses émotions", "intelligence émotionnelle", "contrôler colère", "comprendre mes sentiments", "équilibre émotionnel"],
+    "reponse": "Pour mieux gérer tes émotions, apprends à les identifier et les nommer précisément, observe-les sans jugement, comprends leurs déclencheurs, pratique des techniques de régulation comme la respiration profonde ou la pleine conscience, et exprime-les de façon constructive plutôt que de les réprimer."
+  },
+  {
+    "question": ["comment méditer", "débuter méditation", "pleine conscience", "méditation guidée", "bienfaits méditation"],
+    "reponse": "Pour débuter en méditation, commence par de courtes sessions de 5 minutes, assis confortablement dans un endroit calme. Concentre-toi sur ta respiration, observe tes pensées sans les juger, et ramène doucement ton attention quand elle s'égare. Des applications comme Petit Bambou peuvent te guider."
+  },
+  {
+    "question": ["créer des habitudes", "changer comportement", "routine positive", "discipline personnelle", "transformation habitudes"],
+    "reponse": "Pour créer une nouvelle habitude, commence très petit (2 minutes par jour), associe-la à une routine existante (comme se brosser les dents), rends-la évidente et facile à faire, crée une récompense immédiate, et sois patient car il faut généralement 2 mois pour qu'une habitude devienne automatique."
+  },
+  {
+    "question": ["vivre dans le présent", "arrêter de ruminer", "carpe diem", "profiter de l'instant", "pleine conscience"],
+    "reponse": "Pour vivre davantage dans le présent, pratique l'attention consciente aux sensations de ton corps, engage pleinement tes sens dans les activités quotidiennes, limite les distractions numériques, et pratique la gratitude pour les petites joies du moment présent."
+  },
+  {
+    "question": ["se libérer du regard des autres", "ne plus chercher approbation", "confiance en ses choix", "indépendance émotionnelle", "s'affirmer"],
+    "reponse": "Pour te libérer du regard des autres, clarifie tes propres valeurs, rappelle-toi que la plupart des gens sont trop occupés par leur propre image pour te juger longuement, pratique des petits actes d'authenticité, et entoure-toi de personnes qui t'acceptent tel que tu es."
+  },
+  {
+    "question": "Bonjour",
+    "reponse": "Bonjour ! Comment allez-vous aujourd'hui ?"
+  },
+  {
+    "question": "Je ne vais pas bien du tout",
+    "reponse": "Je suis vraiment désolé d'entendre ça. Voulez-vous me dire ce qui vous préoccupe ? Je suis là pour vous écouter."
+  },
+  {
+    "question": "J'ai l'impression que tout va mal dans ma vie. Je me sens si seul et inutile.",
+    "reponse": "Je comprends que vous traversez un moment difficile. Ces sentiments de solitude et d'inutilité sont très douloureux. Sachez que vous n'êtes pas seul, même si cela peut sembler le cas. Pourriez-vous me parler un peu plus de ce qui vous fait sentir ainsi ?"
+  },
+  {
+    "question": "Je n'arrive pas à trouver un emploi, mes amis sont tous occupés avec leur vie et je me sens comme un échec complet.",
+    "reponse": "Je suis sincèrement désolé que vous viviez cette situation. La recherche d'emploi peut être vraiment éprouvante, et se sentir déconnecté de ses amis peut amplifier ces sentiments difficiles. Cependant, traverser une période difficile ne fait pas de vous un échec. Avez-vous pu parler de ces sentiments à quelqu'un de proche ?"
+  },
+  {
+    "question": "Non, je ne veux pas être un fardeau pour les autres. Ils ont leurs propres problèmes.",
+    "reponse": "Je comprends votre préoccupation, mais partager ses difficultés n'est pas être un fardeau. Les véritables amis se soucient de votre bien-être. Parfois, parler à quelqu'un peut non seulement vous aider, mais aussi renforcer vos relations. Avez-vous envisagé de contacter un professionnel de la santé mentale ? Ils sont formés pour offrir un soutien approprié."
+  },
+  {
+    "question": "J'y ai pensé, mais je ne sais pas si ça va vraiment m'aider. Rien ne semble pouvoir changer.",
+    "reponse": "Il est normal d'avoir des doutes sur l'efficacité de l'aide professionnelle, surtout quand on se sent aussi bas. Mais les professionnels disposent d'outils et de méthodes qui ont aidé beaucoup de personnes dans des situations similaires. Le changement prend du temps, c'est vrai, mais il est possible. Pourriez-vous faire un petit pas dans cette direction, juste pour voir ?"
+  },
+  {
+    "question": "Peut-être. Je ne sais pas par où commencer.",
+    "reponse": "C'est déjà un bon début de l'envisager. Vous pourriez commencer par consulter votre médecin généraliste qui pourra vous orienter, ou rechercher des ressources en ligne comme des lignes d'écoute ou des associations spécialisées. Parfois, juste parler à quelqu'un qui comprend peut faire une grande différence. Et n'oubliez pas de prendre soin de vous : essayez de maintenir une routine, de dormir suffisamment et de faire de petites choses qui vous apportaient du plaisir avant."
+  },
+  {
+    "question": "Je vais essayer de faire un peu d'exercice demain, ça me faisait du bien avant.",
+    "reponse": "C'est une excellente idée ! L'exercice physique libère des endorphines qui peuvent améliorer votre humeur. Même une courte promenade peut faire une différence. Je suis vraiment fier de vous voir envisager cette étape positive. Comment vous sentez-vous à l'idée de faire cet exercice demain ?"
+  },
+  {
+    "question": "Un peu mieux, je crois. Au moins j'ai un objectif pour demain.",
+    "reponse": "C'est formidable ! Avoir un objectif simple et réalisable est un excellent point de départ. Chaque petit pas compte énormément. N'hésitez pas à célébrer cette petite victoire, et sachez que les jours difficiles font partie du processus. Je crois en votre capacité à traverser cette période."
+  },
+  {
+    "question": "Merci de m'avoir écouté, ça fait du bien de ne pas se sentir jugé.",
+    "reponse": "Je vous en prie. Vous méritez d'être écouté et soutenu sans jugement. Vos sentiments sont valides, et vous faites preuve de courage en les exprimant. N'oubliez pas que vous n'êtes pas seul dans cette épreuve et qu'il est normal de demander de l'aide. Je suis là si vous avez besoin de parler à nouveau."
+  },
+  {
+    "question": "Je me sens un peu plus léger maintenant. Je vais essayer de me reposer.",
+    "reponse": "Je suis heureux d'entendre que vous vous sentez un peu mieux. Le repos est essentiel pour votre bien-être. Prenez soin de vous, et rappelez-vous que chaque jour est une nouvelle opportunité. N'hésitez pas à revenir me parler quand vous en ressentez le besoin. Je vous souhaite une nuit reposante."
   }
 ]
